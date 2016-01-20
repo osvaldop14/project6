@@ -362,6 +362,7 @@ Project6.extend({
 });
 Project6.prototype._css = 'html.WMApp body .panel1 {\
 background-color:#3C8DBC;\
+color: white;\
 }\
 html.WMApp body .Titulo {\
 font: 151;\

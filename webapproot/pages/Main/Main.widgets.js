@@ -14,6 +14,12 @@ Main.widgets = {
 ]},
 {"label":"Ayuda"}
 ],"height":"32px","localizationStructure":{},"margin":"6,0,0,0","styles":{"backgroundColor":"#3c8dbc"}}, {}]
+		}],
+		panel2: ["wm.Panel", {"height":"48px","horizontalAlign":"left","layoutKind":"left-to-right","verticalAlign":"top","width":"100%"}, {}, {
+			button1: ["wm.Button", {"_classes":{"domNode":["Primary"]},"border":"1","borderColor":"#0044cc","height":"30px","width":"80px"}, {}],
+			button2: ["wm.Button", {"_classes":{"domNode":["Primary"]},"border":"1","borderColor":"#0044cc","height":"30px","width":"80px"}, {}],
+			button3: ["wm.Button", {"_classes":{"domNode":["Danger"]},"border":"1","borderColor":"#bd362f","height":"30px","width":"80px"}, {}],
+			button4: ["wm.Button", {"_classes":{"domNode":["Danger"]},"border":"1","borderColor":"#bd362f","height":"30px","width":"80px"}, {}]
 		}]
 	}]
 }
