@@ -365,6 +365,7 @@ background-color:#3C8DBC;\
 }\
 html.WMApp body .Titulo {\
 font: 150;\
+color: white;\
 }\
 html.WMApp body .label1 {\
 font: 150% arial;\
