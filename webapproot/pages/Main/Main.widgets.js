@@ -14,6 +14,9 @@ Main.widgets = {
 ]},
 {"label":"Ayuda"}
 ],"height":"32px","localizationStructure":{},"margin":"6,0,0,0","styles":{"backgroundColor":"#3c8dbc"}}, {}]
+		}],
+		liveForm1: ["wm.LiveForm", {"horizontalAlign":"left","verticalAlign":"top"}, {}, {
+			dojoGrid1: ["wm.DojoGrid", {"minDesktopHeight":60,"singleClickEdit":true}, {}]
 		}]
 	}]
 }
