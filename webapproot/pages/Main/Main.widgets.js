@@ -14,12 +14,6 @@ Main.widgets = {
 ]},
 {"label":"Ayuda"}
 ],"height":"32px","localizationStructure":{},"margin":"6,0,0,0","styles":{"backgroundColor":"#3c8dbc"}}, {}]
-		}],
-		liveForm1: ["wm.LiveForm", {"height":"292px","horizontalAlign":"left","verticalAlign":"top"}, {}, {
-			button2: ["wm.Button", {"border":"1","height":"30px","width":"80px"}, {}],
-			button1: ["wm.Button", {"border":"1","height":"30px","width":"80px"}, {}],
-			button3: ["wm.Button", {"border":"1","height":"30px","width":"80px"}, {}],
-			dojoGrid1: ["wm.DojoGrid", {"minDesktopHeight":60,"singleClickEdit":true}, {}]
 		}]
 	}]
 }
