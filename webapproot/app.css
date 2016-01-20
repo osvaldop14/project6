@@ -1,0 +1,18 @@
+html.WMApp body .panel1 {
+background-color:#3C8DBC;
+}
+
+html.WMApp body .Titulo {
+font: 150;
+}
+
+html.WMApp body .label1 {
+font: 150% arial;
+font-weight: bold;
+color:white;
+}
+
+html.WMApp body .dojoMenu1 {
+background-color:transparent !important;
+color: white;
+}

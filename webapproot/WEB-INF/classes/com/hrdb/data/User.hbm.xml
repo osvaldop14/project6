@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 20/01/2016 08:40:28 AM by Hibernate Tools 3.2.4.GA -->
+<hibernate-mapping>
+    <class name="com.hrdb.data.User" table="USER" schema="PUBLIC">
+        <id name="userid" type="java.lang.Integer">
+            <column name="USERID" />
+            <generator class="identity" />
+        </id>
+        <property name="username" type="string">
+            <column name="USERNAME" length="20" />
+        </property>
+        <property name="password" type="string">
+            <column name="PASSWORD" length="20" />
+        </property>
+        <property name="role" type="string">
+            <column name="ROLE" length="20" />
+        </property>
+        <property name="tenantid" type="java.lang.Integer">
+            <column name="TENANTID" />
+        </property>
+    </class>
+</hibernate-mapping>
