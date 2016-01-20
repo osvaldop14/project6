@@ -364,7 +364,7 @@ Project6.prototype._css = 'html.WMApp body .panel1 {\
 background-color:#3C8DBC;\
 }\
 html.WMApp body .Titulo {\
-font: 150;\
+font: 151;\
 color: white;\
 }\
 html.WMApp body .label1 {\
